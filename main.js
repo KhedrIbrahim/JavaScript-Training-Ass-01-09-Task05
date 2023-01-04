@@ -1,0 +1,1 @@
+console.log(["elzero", "Ahmed", "Sameh", "Gamal", "Aya"]);
